@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Hereford overnight brief" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Hereford overnight · Day 2 · Camping Villette → Sherbrooke</name>
-    <desc>Sep 22 2026 · 58.6 km · public roads</desc>
+    <desc>Sep 22 2026 · 58.7 km · public roads</desc>
   </metadata>
   <trk>
     <name>Hereford overnight · Day 2 · Camping Villette → Sherbrooke</name>
@@ -105,6 +105,7 @@
       <trkpt lat="45.130212" lon="-71.672772"/>
       <trkpt lat="45.141189" lon="-71.672954"/>
       <trkpt lat="45.141217" lon="-71.671399"/>
+      <trkpt lat="45.141373" lon="-71.666179"/>
       <trkpt lat="45.141523" lon="-71.661168"/>
       <trkpt lat="45.141545" lon="-71.660428"/>
       <trkpt lat="45.142099" lon="-71.660199"/>
@@ -279,14 +280,19 @@
       <trkpt lat="45.272185" lon="-71.771331"/>
       <trkpt lat="45.271460" lon="-71.774139"/>
       <trkpt lat="45.271457" lon="-71.774598"/>
+      <trkpt lat="45.271699" lon="-71.775896"/>
+      <trkpt lat="45.272969" lon="-71.775299"/>
+      <trkpt lat="45.277456" lon="-71.773171"/>
       <trkpt lat="45.278568" lon="-71.772638"/>
       <trkpt lat="45.279220" lon="-71.772381"/>
       <trkpt lat="45.280114" lon="-71.772252"/>
+      <trkpt lat="45.284957" lon="-71.772123"/>
       <trkpt lat="45.291741" lon="-71.771809"/>
       <trkpt lat="45.291752" lon="-71.771808"/>
       <trkpt lat="45.294105" lon="-71.771651"/>
       <trkpt lat="45.294860" lon="-71.771505"/>
       <trkpt lat="45.295808" lon="-71.771276"/>
+      <trkpt lat="45.295437" lon="-71.785804"/>
       <trkpt lat="45.295377" lon="-71.788174"/>
       <trkpt lat="45.295352" lon="-71.791400"/>
       <trkpt lat="45.295097" lon="-71.792267"/>
